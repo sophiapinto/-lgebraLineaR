@@ -30,6 +30,12 @@ Link para acessar os manuais: https://cran.r-project.org/manuals.html
 
 Link para a documentação: https://cran.r-project.org/other-docs.html
 
+# Libs usadas
+## limSolve
+
+Link: https://www.mathworks.com/help/matlab/ref/linsolve.html
+
+
 # Fonte
 
 Fonte de informações: https://www.r-project.org/
