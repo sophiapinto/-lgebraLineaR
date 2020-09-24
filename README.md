@@ -7,7 +7,11 @@ Uso do RStudio para desktop.
 
 # O que é R?
 
-O R é um ambiente de software livre para computação estatística e gráficos.
+O R é uma linguagem e ambiente de software livre para computação estatística e gráficos.
+
+# O que é CRAN?
+
+Segundo o site, https://cran.r-project.org/, CRAN (Comprehensive R Archive Network) é uma rede de ftp e servidores web em todo o mundo que armazenam versões idênticas, atualizadas, de código e documentação para R.
 
 
 # Importante!
